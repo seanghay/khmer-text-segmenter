@@ -1,0 +1,19 @@
+{
+  "name": "km-word-break",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.5.4",
+    "vite-plugin-windicss": "^1.4.2",
+    "windicss": "^3.1.7"
+  },
+  "dependencies": {
+    "cldr-segmentation": "^2.2.0",
+    "codemirror": "^5.62.3",
+    "intl-segmenter-polyfill": "^0.3.4"
+  }
+}
